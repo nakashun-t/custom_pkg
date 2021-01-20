@@ -1,6 +1,6 @@
 {
     "name": "com.lastmileworks.custom_pkg_test",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "displayName": "Test tool",
     "description": "This is an test package",
     "unity": "2020.2",
